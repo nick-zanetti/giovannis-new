@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/giovannis-new/static/css/main.9d4e38b4.chunk.css",
+    "main.js": "/giovannis-new/static/js/main.2d206e00.chunk.js",
+    "main.js.map": "/giovannis-new/static/js/main.2d206e00.chunk.js.map",
+    "runtime-main.js": "/giovannis-new/static/js/runtime-main.55c3e7d2.js",
+    "runtime-main.js.map": "/giovannis-new/static/js/runtime-main.55c3e7d2.js.map",
+    "static/css/2.4c97ca4f.chunk.css": "/giovannis-new/static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8aeb7311.chunk.js": "/giovannis-new/static/js/2.8aeb7311.chunk.js",
+    "static/js/2.8aeb7311.chunk.js.map": "/giovannis-new/static/js/2.8aeb7311.chunk.js.map",
+    "static/js/3.5216263e.chunk.js": "/giovannis-new/static/js/3.5216263e.chunk.js",
+    "static/js/3.5216263e.chunk.js.map": "/giovannis-new/static/js/3.5216263e.chunk.js.map",
+    "index.html": "/giovannis-new/index.html",
+    "static/css/2.4c97ca4f.chunk.css.map": "/giovannis-new/static/css/2.4c97ca4f.chunk.css.map",
+    "static/css/main.9d4e38b4.chunk.css.map": "/giovannis-new/static/css/main.9d4e38b4.chunk.css.map",
+    "static/js/2.8aeb7311.chunk.js.LICENSE.txt": "/giovannis-new/static/js/2.8aeb7311.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/giovannis-new/static/media/background.4110222e.jpg",
+    "static/media/gios-menu.707c19f3.png": "/giovannis-new/static/media/gios-menu.707c19f3.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.55c3e7d2.js",
+    "static/css/2.4c97ca4f.chunk.css",
+    "static/js/2.8aeb7311.chunk.js",
+    "static/css/main.9d4e38b4.chunk.css",
+    "static/js/main.2d206e00.chunk.js"
+  ]
+}
