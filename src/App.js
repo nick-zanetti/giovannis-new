@@ -23,7 +23,7 @@ function App() {
       
      
       <Switch>
-          <Route exact path="/">
+          <Route exact path="/giovannis-new">
             <Home />
           </Route>
           <Route path="/order">
