@@ -2,7 +2,7 @@ import { createStore } from "redux";
 import reducer from "./reducers";
 import { saveState, loadState } from "./localStorage";
 import throttle from "lodash/throttle";
-import cartitems from "./reducers/cartitems";
+
 
 const persistedState = loadState();
 
