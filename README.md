@@ -1,6 +1,6 @@
 # Live Link:
 
-[Click here for live demo](https://app.netlify.com/sites/giovannis/overview)
+[Click here for live demo](https://giovannis.netlify.app/)
 
 # Getting Started with Create React App
 
